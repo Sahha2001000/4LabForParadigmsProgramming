@@ -2,25 +2,27 @@ class Rational(object):
     def __init__(self, numerator=1, denominator=1):
         self.numerator = numerator
         self.denominator = denominator
+      
 
     def meetUser(self):
-        print("This program help you create fraction standart and decimal from your 2 numbers\n")
+        print("\nThis program help you create fraction standart and decimal from your 2 numbers\n")
         return 1
 
     def findGCD(self):
         a = self.numerator
         b = self.denominator
+        if(b == 0):
+            return print(f"Division by zero denominator:{b}")
         while (a != 0) and (b != 0):
             if (a > b):
                 a = a % b
             else:
                 b = b % a
         if a > b:
-            gcd = a
-            return gcd
+            gcd = a   
         else:
             gcd = b
-            return gcd
+        return gcd
 
     def fractionStandart(self, divisor=1):
         a = self.numerator
