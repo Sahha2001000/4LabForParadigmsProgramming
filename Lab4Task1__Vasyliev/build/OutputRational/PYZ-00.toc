@@ -1,5 +1,4 @@
-('C:\\Users\\Alexander '
- 'Vasyliev\\Documents\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\build\\OutputRational\\PYZ-00.pyz',
+('C:\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\build\\OutputRational\\PYZ-00.pyz',
  [('multiprocessing.popen_spawn_posix',
    'c:\\users\\alexander '
    'vasyliev\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_spawn_posix.py',
@@ -1040,6 +1039,10 @@
    'c:\\users\\alexander '
    'vasyliev\\appdata\\local\\programs\\python\\python38\\lib\\os.py',
    'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\alexander '
+   'vasyliev\\appdata\\local\\programs\\python\\python38\\lib\\_py_abc.py',
+   'PYMODULE'),
   ('stringprep',
    'c:\\users\\alexander '
    'vasyliev\\appdata\\local\\programs\\python\\python38\\lib\\stringprep.py',
@@ -1048,11 +1051,6 @@
    'c:\\users\\alexander '
    'vasyliev\\appdata\\local\\programs\\python\\python38\\lib\\tracemalloc.py',
    'PYMODULE'),
-  ('_py_abc',
-   'c:\\users\\alexander '
-   'vasyliev\\appdata\\local\\programs\\python\\python38\\lib\\_py_abc.py',
-   'PYMODULE'),
   ('Rational',
-   'C:\\Users\\Alexander '
-   'Vasyliev\\Documents\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\Rational.py',
+   'C:\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\Rational.py',
    'PYMODULE')])

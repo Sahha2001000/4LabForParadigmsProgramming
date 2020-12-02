@@ -1,9 +1,6 @@
-(['C:\\Users\\Alexander '
-  'Vasyliev\\Documents\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\OutputRational.py'],
- ['C:\\Users\\Alexander '
-  'Vasyliev\\Documents\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev',
-  'C:\\Users\\Alexander '
-  'Vasyliev\\Documents\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev'],
+(['C:\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\OutputRational.py'],
+ ['C:\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev',
+  'C:\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev'],
  ['codecs'],
  ['c:\\users\\alexander '
   'vasyliev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
@@ -26,8 +23,7 @@
    'Vasyliev\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
    'PYSOURCE'),
   ('OutputRational',
-   'C:\\Users\\Alexander '
-   'Vasyliev\\Documents\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\OutputRational.py',
+   'C:\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\OutputRational.py',
    'PYSOURCE')],
  [('multiprocessing.popen_spawn_posix',
    'c:\\users\\alexander '
@@ -1069,6 +1065,10 @@
    'c:\\users\\alexander '
    'vasyliev\\appdata\\local\\programs\\python\\python38\\lib\\os.py',
    'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\alexander '
+   'vasyliev\\appdata\\local\\programs\\python\\python38\\lib\\_py_abc.py',
+   'PYMODULE'),
   ('stringprep',
    'c:\\users\\alexander '
    'vasyliev\\appdata\\local\\programs\\python\\python38\\lib\\stringprep.py',
@@ -1077,13 +1077,8 @@
    'c:\\users\\alexander '
    'vasyliev\\appdata\\local\\programs\\python\\python38\\lib\\tracemalloc.py',
    'PYMODULE'),
-  ('_py_abc',
-   'c:\\users\\alexander '
-   'vasyliev\\appdata\\local\\programs\\python\\python38\\lib\\_py_abc.py',
-   'PYMODULE'),
   ('Rational',
-   'C:\\Users\\Alexander '
-   'Vasyliev\\Documents\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\Rational.py',
+   'C:\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\Rational.py',
    'PYMODULE')],
  [('VCRUNTIME140.dll',
    'c:\\users\\alexander '
@@ -1149,13 +1144,13 @@
    'c:\\users\\alexander '
    'vasyliev\\appdata\\local\\programs\\python\\python38\\DLLs\\_bz2.pyd',
    'EXTENSION'),
-  ('libcrypto-1_1.dll',
-   'c:\\users\\alexander '
-   'vasyliev\\appdata\\local\\programs\\python\\python38\\DLLs\\libcrypto-1_1.dll',
-   'BINARY'),
   ('libssl-1_1.dll',
    'c:\\users\\alexander '
    'vasyliev\\appdata\\local\\programs\\python\\python38\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\alexander '
+   'vasyliev\\appdata\\local\\programs\\python\\python38\\DLLs\\libcrypto-1_1.dll',
    'BINARY'),
   ('libffi-7.dll',
    'c:\\users\\alexander '
@@ -1164,8 +1159,7 @@
  [],
  [],
  [('base_library.zip',
-   'C:\\Users\\Alexander '
-   'Vasyliev\\Documents\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\build\\OutputRational\\base_library.zip',
+   'C:\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\build\\OutputRational\\base_library.zip',
    'DATA'),
   ('Include\\pyconfig.h',
    'c:\\users\\alexander '

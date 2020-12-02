@@ -1,5 +1,4 @@
-('C:\\Users\\Alexander '
- 'Vasyliev\\Documents\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\dist\\OutputRational.exe',
+('C:\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\dist\\OutputRational.exe',
  True,
  False,
  False,
@@ -11,8 +10,7 @@
  True,
  'OutputRational.pkg',
  [('PYZ-00.pyz',
-   'C:\\Users\\Alexander '
-   'Vasyliev\\Documents\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\build\\OutputRational\\PYZ-00.pyz',
+   'C:\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\build\\OutputRational\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
    'c:\\users\\alexander '
@@ -39,8 +37,7 @@
    'Vasyliev\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
    'PYSOURCE'),
   ('OutputRational',
-   'C:\\Users\\Alexander '
-   'Vasyliev\\Documents\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\OutputRational.py',
+   'C:\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\OutputRational.py',
    'PYSOURCE'),
   ('VCRUNTIME140.dll',
    'c:\\users\\alexander '
@@ -106,35 +103,33 @@
    'c:\\users\\alexander '
    'vasyliev\\appdata\\local\\programs\\python\\python38\\DLLs\\_bz2.pyd',
    'EXTENSION'),
-  ('libcrypto-1_1.dll',
-   'c:\\users\\alexander '
-   'vasyliev\\appdata\\local\\programs\\python\\python38\\DLLs\\libcrypto-1_1.dll',
-   'BINARY'),
   ('libssl-1_1.dll',
    'c:\\users\\alexander '
    'vasyliev\\appdata\\local\\programs\\python\\python38\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\alexander '
+   'vasyliev\\appdata\\local\\programs\\python\\python38\\DLLs\\libcrypto-1_1.dll',
    'BINARY'),
   ('libffi-7.dll',
    'c:\\users\\alexander '
    'vasyliev\\appdata\\local\\programs\\python\\python38\\DLLs\\libffi-7.dll',
    'BINARY'),
   ('base_library.zip',
-   'C:\\Users\\Alexander '
-   'Vasyliev\\Documents\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\build\\OutputRational\\base_library.zip',
+   'C:\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\build\\OutputRational\\base_library.zip',
    'DATA'),
   ('Include\\pyconfig.h',
    'c:\\users\\alexander '
    'vasyliev\\appdata\\local\\programs\\python\\python38\\Include\\pyconfig.h',
    'DATA'),
   ('OutputRational.exe.manifest',
-   'C:\\Users\\Alexander '
-   'Vasyliev\\Documents\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\build\\OutputRational\\OutputRational.exe.manifest',
+   'C:\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev\\build\\OutputRational\\OutputRational.exe.manifest',
    'BINARY'),
   ('pyi-windows-manifest-filename OutputRational.exe.manifest', '', 'OPTION')],
  [],
  False,
  False,
- 1606123868,
+ 1606917290,
  [('run.exe',
    'c:\\users\\alexander '
    'vasyliev\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',

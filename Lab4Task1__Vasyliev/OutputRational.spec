@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['OutputRational.py'],
-             pathex=['C:\\Users\\Alexander Vasyliev\\Documents\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev'],
+             pathex=['C:\\4LabForParadigmsProgramming\\Lab4Task1__Vasyliev'],
              binaries=[],
              datas=[],
              hiddenimports=[],
